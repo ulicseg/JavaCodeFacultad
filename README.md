@@ -1,18 +1,14 @@
-## Getting Started
+# Sistema CRUD de Ventas de Ropa
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Integrantes:
+  Benitez Danilo.
+  Alegre Pablo.
+  Gutierrez Ulises.
+  Gomez Nicolas.
+  Iserre Brahian.
 
-## Folder Structure
+Temática elegida
+El proyecto se centra en el desarrollo de un sistema de gestión para ventas de ropa utilizando operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Descripción de la Aplicación
+Este repositorio contiene un programa en Java para gestionar un sistema CRUD de ventas de ropa. Desarrollado por un grupo de estudiantes, permite agregar, consultar, actualizar y eliminar productos de manera sencilla. La aplicación está diseñada para ser intuitiva y accesible, facilitando la gestión de un inventario de productos de moda, así como el seguimiento de las ventas.
